@@ -23,3 +23,9 @@
 ![趋势](screenshots/02_Sales_Trend.png)
 ![利润分析](screenshots/03_Profit_Analysis.png)
 ![Top N](screenshots/04_TopN.png)
+
+## 数据来源
+原始数据集来自 Kaggle：  
+[Sample - Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
+
+（本仓库不包含原始数据文件，可从上方链接直接下载）
