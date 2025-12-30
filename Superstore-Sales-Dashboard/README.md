@@ -19,7 +19,7 @@
 
 ## 仪表盘预览
 
-![概览](screenshots/01_Overview.png)
+![概览](screenshots/01_Overview.PNG)
 ![趋势](screenshots/02_Sales_Trend.png)
 ![利润分析](screenshots/03_Profit_Analysis.png)
 ![Top N](screenshots/04_TopN.png)
